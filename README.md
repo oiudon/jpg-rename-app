@@ -1,1 +1,0 @@
-# jpg-rename-app
