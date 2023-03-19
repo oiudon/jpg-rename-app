@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/oiudon/jpg-rename-app/main/rename_app.jpg">
 <h1>jpg連番リネームアプリ</h1>
+<img src="https://raw.githubusercontent.com/oiudon/jpg-rename-app/main/rename_app.jpg">
+<h2>概要</h2>
 <p>Tkinterで作成したjpgファイルを連番でリネームするアプリです。</p>
 <h2>起動方法</h2>
 <ol>
