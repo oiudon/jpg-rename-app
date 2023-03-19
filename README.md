@@ -2,6 +2,25 @@
 <img src="https://raw.githubusercontent.com/oiudon/jpg-rename-app/main/rename_app.jpg">
 <h2>概要</h2>
 <p>Tkinterで作成したjpgファイルを連番でリネームするアプリです。</p>
+<h2>使用言語など</h2>
+<table>
+  <tr>
+    <th>名称</th>
+    <th>説明</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>プログラミング言語</td>
+  </tr>
+  <tr>
+    <td>TKinter</td>
+    <td>デスクトップアプリ開発用ライブラリ</td>
+  </tr>
+  <tr>
+    <td>Visual Studio Code</td>
+    <td>ソースコードエディタ</td>
+  </tr>
+</table>
 <h2>起動方法</h2>
 <ol>
   <li>「exe.win-amd64-3.10.zip」を展開する。</li>
