@@ -1,5 +1,5 @@
 <h1>jpg連番リネームアプリ</h1>
-<img src="https://user-images.githubusercontent.com/125285302/226239284-128f7a6d-f142-4e61-aed4-54a4ab663817.jpg">
+<img src="https://user-images.githubusercontent.com/125285302/226239284-128f7a6d-f142-4e61-aed4-54a4ab663817.jpg" width=576px>
 <h2>概要</h2>
 <p>Tkinterで作成したjpgファイルを連番でリネームするアプリです。</p>
 <h2>使用言語など</h2>
